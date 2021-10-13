@@ -1,1 +1,1 @@
-This i shte ifrst project assignment while learning from the odin project
+This is the first project assignment while learning from the odin project
