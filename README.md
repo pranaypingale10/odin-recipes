@@ -1,0 +1,1 @@
+This i shte ifrst project assignment while learning from the odin project
